@@ -2,7 +2,14 @@
 <svg fill="none" viewBox="0 0 100% 100%" width="100%" height="2000" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <div style="background:#0f172a;padding:16px;border-radius:8px;">
+      <style>
+        .Container{
+          background:#0f172a;
+          padding:16px;
+          border-radius:8px;
+        }
+      </style>
+      <div class="Container">
         <img src="./images/github-cover.png" width="100%" />
         Hi! My name is Yan Doro
         > Full-stack Engineer | Go | TypeScript | PHP | ReactJs
