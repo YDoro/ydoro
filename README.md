@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yan Doro
 ================================================================================================================================
 
-FullStack Engineer | Go | TypeScript | PHP | ReactJs
+Full-stack Engineer | Go | TypeScript | PHP | ReactJs
 ----------------------------------------------------
 
-I've been working as a fullstack developer since 2018, since them I worked with too many prograrming languages from Rust until Clipper, passing for most common laguages like Python, Ruby, Elixir, Java... The only constants in this journey has been NodeJs and React, but languages and frameworks are only tools.
+I've been working as a full-stack developer since 2018. Throughout my journey, I've worked with a wide range of programming languages, from Rust to Clipper, as well as more common ones like Python, Ruby, Elixir, and Java. The only constants in my career have been Node.js and React, but I see languages and frameworks as just tools to solve problems
 
 *   🌍  I'm based in Rio de Janeiro, Brasil
 *   ✉️  You can contact me at [yan\_mvd@hotmail.com](mailto:yan_mvd@hotmail.com)
